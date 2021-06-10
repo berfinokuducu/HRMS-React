@@ -8,7 +8,7 @@ export default function Navi() {
                     name='HRMS' icon="star half empty"
                 />
                 <Menu.Item>
-                    <Button color="black " icon='home'></Button>
+                    <Button basic color="grey " icon='home'></Button>
                 </Menu.Item>
 
                 <Menu.Item>
